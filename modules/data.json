@@ -1,0 +1,22 @@
+[
+    {
+        "name":"santhakumar",
+        "age":24,
+        "country":"india"
+    },
+    {
+        "name":"ragav",
+        "age":34,
+        "country":"india"
+    },
+    {
+        "name":"kathir",
+        "age":35,
+        "country":"india"
+    },
+    {
+        "name":"siva",
+        "age":24,
+        "country":"india"
+    }
+]
